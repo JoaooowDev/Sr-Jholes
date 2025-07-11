@@ -1,0 +1,31 @@
+{
+    "token": "MTM5MzA5MDY2NjQ1NTYzNDA0MQ.GH4jES.rORL5MmvdQQl1rjQ3Tm1x900-IixYqpeE2_b28",
+    "canalRegistro": "1393091219927859271",
+    "canalLogsRegistro": "1393091242358739019",
+    "canalBau": "1393091258343362611",
+    "canalLogsBau": "1393091276227874917",
+    "canalPedidos": "1393091297559973958",
+    "canalLogsPedidos": "1393091311971602443",
+    "cargoStaff": [
+        "1393154440558678087"
+    ],
+    "guildId": "1380064883097342014",
+    "canalIA": "1393101162902851624",
+    "cargosDisponiveis": [
+        {
+            "id": "1393154440558678087",
+            "nome": "Staff",
+            "descricao": "Staff...."
+        },
+        {
+            "id": "1393154464600293497",
+            "nome": "Membro",
+            "descricao": "Membro..."
+        },
+        {
+            "id": "1393154489636094042",
+            "nome": "Artesanato",
+            "descricao": "Artesanato..."
+        }
+    ]
+}
